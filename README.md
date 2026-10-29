@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # OpenCV Virtual Drawing Board Using Hand Gesture Recognition
 
 ## Abstract
@@ -297,3 +298,6 @@ Use this structure for a formal report:
 ---
 
 *Built as a capstone project demonstrating real-time computer vision and gesture-based interaction.*
+=======
+# virtual-drawing-board
+>>>>>>> 69fa24cf02c3abbb32c2ae2cce51b21f9fe84d2b
